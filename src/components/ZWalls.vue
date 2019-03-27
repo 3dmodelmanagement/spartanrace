@@ -60,6 +60,7 @@ export default class ZWalls extends Vue {}
       font-family: "Overpass";
       font-size: 18pt;
       text-align: end;
+      text-align: moz-end;
     }
   }
   .subtitle {
@@ -68,6 +69,7 @@ export default class ZWalls extends Vue {}
     font-family: "Montserrat";
     font-size: 12pt;
     text-align: right;
+    text-align: moz-right;
   }
 }
 

@@ -27,22 +27,21 @@ export default class PromoVideo extends Vue {}
 
 .container {
   margin: 0px;
-  display: flex;
 }
 
 .content {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
 }
 
 .frame {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 
 // @media all and (max-width: 1040px) {
