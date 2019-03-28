@@ -2,13 +2,12 @@
   <div class="container">
     <div class="text-bar">
       <div class="title">
-        <p>SpearMan</p>
+        <p>Z Walls</p>
       </div>
 
       <div class="subtitle">
-        Using state of the art laser scanning and photogrammetry technology,
-        we can create digital twins of physical space and objects with millimeter accuracy.
-        <br>Our team will create the 2D and 3D digital solutions to suit your needs.
+An example of a smaller obstacle using the same capture technique.
+
       </div>
     </div>
 

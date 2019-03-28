@@ -2,13 +2,13 @@
   <div class="container">
     <div class="text-bar">
       <div class="title">
-        <p>SpearMan</p>
+        <p>Festival</p>
       </div>
 
       <div class="subtitle">
-        Using state of the art laser scanning and photogrammetry technology,
-        we can create digital twins of physical space and objects with millimeter accuracy.
-        <br>Our team will create the 2D and 3D digital solutions to suit your needs.
+        This capture highlights the main hub of the event with the start and finish lines, and some obstacles. The annotation provides the ability to create an interactive and informative 3D map.  There is a potential opportunity for one of our team members to capture the space the day prior to the event opening and have this model live for race day.
+As you can see Festival is not 100% set up for race day yet. We wanted to capture Festival without people around, so we scanned early Friday morning while staff was meeting at basecamp. We had limited time available here so the quality is not reflective of the potential output.
+
       </div>
     </div>
 

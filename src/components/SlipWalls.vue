@@ -2,13 +2,11 @@
   <div class="container">
     <div class="text-bar">
       <div class="title">
-        <p>SpearMan</p>
+        <p>Slip Wall and Dunk Wall</p>
       </div>
 
       <div class="subtitle">
-        Using state of the art laser scanning and photogrammetry technology,
-        we can create digital twins of physical space and objects with millimeter accuracy.
-        <br>Our team will create the 2D and 3D digital solutions to suit your needs.
+        An example of 2 obstacles together and how they relate to each other.  This was captured during the race so there is a sense of spectators surrounding the course.
       </div>
     </div>
 

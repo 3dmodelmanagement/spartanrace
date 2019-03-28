@@ -6,9 +6,7 @@
       </div>
 
       <div class="subtitle">
-        Using state of the art laser scanning and photogrammetry technology,
-        we can create digital twins of physical space and objects with millimeter accuracy.
-        <br>Our team will create the 2D and 3D digital solutions to suit your needs.
+        This example shows the way the obstacle integrates with the local topology and going forward we could capture the same obstacle in the various settings of the Spartan races.  The annotation provides an opportunity for instructions on how to approach and other educational content.
       </div>
     </div>
 

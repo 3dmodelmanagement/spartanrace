@@ -9,6 +9,14 @@
         allowfullscreen
       ></iframe>
     </div>
+    <div class="text">
+      <p>
+        This video shows the potential to highlight the context of each particular course and how the obstacles inhabit the terrain. A video like this could bring you from start to finish, and at each obstacle provide a link with the option to view the associated Obstacle 3D Model.  This video was to spark curiosity and potential in how you can view a location specific course and then connect with something interactive.
+
+         It is also a tool to examine how the existing Spartan Youtube account could be leveraged to connect video with 3D content using Youtube Cards, which appear in the top right corner at different moments throughout the duration.  This is particularly relevant to the Ring The Bell Youtube series.  (The YouTube card links that currently appear on the video connect with other Spartan videos for your example, but we can link to any specific Spartan video or 3D model.)
+
+      </p>
+    </div>
   </div>
 </template>
 
@@ -42,6 +50,12 @@ export default class PromoVideo extends Vue {}
   width: 100%;
   height: 100%;
   border: 0;
+}
+
+.text {
+    margin: 10px;
+    font-family: "Montserrat";
+    font-size: 12pt;
 }
 
 // @media all and (max-width: 1040px) {

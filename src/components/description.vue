@@ -2,16 +2,12 @@
   <div class="container">
     <div class="logo">
       <div>
-        <p>Spartan</p>
-        <p>Race</p>
+        <p>OBSTACLE 3D MODELS</p>
       </div>
     </div>
     <div class="links">
       <div class="link">
-3D Model Management traveled to Diablo Grande,
-California to capture the amazing course and setting of the San Jose Super and Sprint Weekend.  
-<br>
-Our team put together a collection of obstacles from the race and converted them to interactive 3D models as a demonstration of potential content.
+Note: The content below is formatted for computer or tablet use, for future work we can optimize for mobile usage. Every scene below the video is interactive and can be navigated with mouse or touchpad
       </div>
     </div>
   </div>
@@ -53,7 +49,7 @@ export default class Navigation extends Vue {
   p {
     margin: 0;
     align-self: flex-end;
-    text-align: end;
+    text-align: start;
   }
 }
 
@@ -61,7 +57,6 @@ export default class Navigation extends Vue {
   flex: 3 1 auto;
   font-family: "Overpass";
   font-size: 1.2em;
-  margin-left: 20px;
   display: flex;
   text-align: start;
   flex-direction: row;

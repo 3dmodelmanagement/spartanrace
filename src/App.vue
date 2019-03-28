@@ -2,12 +2,11 @@
   <div id="app">
     <Navigation></Navigation>
     <PromoVideo></PromoVideo>
+    <description></description>
     <MainArea></MainArea>
     <SpearMan></SpearMan>
     <ZWalls></ZWalls>
     <SlipWalls></SlipWalls>
-    <MonkeyBars></MonkeyBars>
-    <StairwayToSparta></StairwayToSparta>
   </div>
 </template>
 
@@ -21,6 +20,7 @@ import MonkeyBars from '@/components/MonkeyBars.vue';
 import StairwayToSparta from '@/components/StairwayToSparta.vue';
 import SlipWalls from '@/components/SlipWalls.vue';
 import MainArea from '@/components/MainArea.vue';
+import description from '@/components/description.vue';
 
 @Component({
   components: {
@@ -32,6 +32,7 @@ import MainArea from '@/components/MainArea.vue';
     StairwayToSparta,
     SlipWalls,
     MainArea,
+    description
   }
 })
 export default class App extends Vue {}
