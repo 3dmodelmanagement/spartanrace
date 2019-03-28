@@ -6,8 +6,10 @@
       </div>
 
       <div class="subtitle">
+         We had limited time available here so the quality is not reflective of the potential output.
+         <br>
         This capture highlights the main hub of the event with the start and finish lines, and some obstacles. The annotation provides the ability to create an interactive and informative 3D map.  There is a potential opportunity for one of our team members to capture the space the day prior to the event opening and have this model live for race day.
-As you can see Festival is not 100% set up for race day yet. We wanted to capture Festival without people around, so we scanned early Friday morning while staff was meeting at basecamp. We had limited time available here so the quality is not reflective of the potential output.
+As you can see Festival is not 100% set up for race day yet. We wanted to capture Festival without people around, so we scanned early Friday morning while staff was meeting at basecamp.
 
       </div>
     </div>

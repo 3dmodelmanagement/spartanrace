@@ -3,10 +3,10 @@
     <Navigation></Navigation>
     <PromoVideo></PromoVideo>
     <description></description>
-    <MainArea></MainArea>
     <SpearMan></SpearMan>
     <ZWalls></ZWalls>
     <SlipWalls></SlipWalls>
+    <MainArea></MainArea>
   </div>
 </template>
 
